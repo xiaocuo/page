@@ -1,7 +1,7 @@
 # tao
 我的个人主页
 
-欢迎访问：http://xiaocuo.github.io/page/
+欢迎访问：https://xiaocuo.github.io/page/
 
 版本库地址：https://github.com/xiaocuo/page.git
 
